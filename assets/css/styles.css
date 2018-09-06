@@ -1,0 +1,30 @@
+header {
+    background-color: teal;
+    border-color: #cccccc;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .Menu {
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  h2 {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+  }
+  
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: gray;
+    background-color: white;
+    border: #cccccc;
+    text-align: left;
+  }
+  
+  .rotate {
+    transform: rotate(90deg)   
+  }
